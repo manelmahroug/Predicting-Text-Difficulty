@@ -1,4 +1,4 @@
-# Predicting-Text-Readability
+# Predicting-Text-Difficulty
 The simple Wikipedia was created to address the need for a simplified source of information accessible to individuals with learning disabilities, low reading proficiency, and new English learners. Though the assumption is that the language contained within it is simple enough, finding areas where the language requires further simplification is worth exploring. Before the editors expend resources on increase its readability, it would be very helpful to provide suggestion on which parts of an article's text might need to be simplified.
 
 The goal of this project is to classify documents (where each document is a line in the data file), into one of two categories **0** for when the sentence does NOT need to be simplified and **1** for when the sentence DOES need to be simplified.
